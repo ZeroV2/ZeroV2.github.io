@@ -23,12 +23,12 @@ h3{
 	margin-right:35px;
 	padding: 5px;
 	border-radius: 40px;
-	opacity: 0.5;
+	opacity: 1;
 }
 
 .PS:hover{
 	border: 3px solid #242118;
-	opacity: 1;
+	opacity: 0;
 }
 body{
 	background-image: url(images/3.jpg);
