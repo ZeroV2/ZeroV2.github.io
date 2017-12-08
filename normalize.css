@@ -1,0 +1,32 @@
+a{
+	font-size: 24px; 
+}
+
+h3{
+	color: #4721A6;
+}
+
+#odin{
+	color:black;
+}
+
+#dva{
+	color: green;
+}
+
+.PS{
+	color: #A89048;
+	background-color: #E8D18E;
+	border: 1px solid #242118;
+	margin-top:20px;
+	margin-left:1050px;
+	margin-right:35px;
+	padding: 5px;
+}
+
+.PS:hover{
+	border: 3px solid #242118
+}
+body{
+	background-image: url(3.jpg);
+}
