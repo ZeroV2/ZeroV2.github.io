@@ -34,6 +34,6 @@ h3{
 	transform: rotate(30deg);
 }
 body{
-	background-image: url(https://www.google.ru/search?q=%D1%84%D0%BE%D0%BD&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjB_YDWvrDYAhWCQZoKHWQWByYQ_AUICigB&biw=1920&bih=925#imgrc=h8FNRx1EKL_-fM:);
+	background-image: url('https://www.google.ru/search?q=%D1%84%D0%BE%D0%BD&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjB_YDWvrDYAhWCQZoKHWQWByYQ_AUICigB&biw=1920&bih=925#imgrc=h8FNRx1EKL_-fM:');
 	background-size: cover;
 }
